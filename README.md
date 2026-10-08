@@ -1,6 +1,6 @@
 # U.S. Industry Wage Analysis, 2017–2024
 
-An R-based analysis of wages and salaries per full-time equivalent (FTE) employee across major U.S. industries using data from the U.S. Bureau of Economic Analysis (BEA), Table 6.6D.
+This is an R-based analysis of wages and salaries per full-time equivalent (FTE) employee across major U.S. industries using data from the U.S. Bureau of Economic Analysis (BEA), Table 6.6D.
 
 ## Research Questions
 
